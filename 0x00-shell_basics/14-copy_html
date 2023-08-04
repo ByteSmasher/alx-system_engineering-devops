@@ -1,2 +1,2 @@
 #!/bin/bash
-copy -un *.html ../
+cp -u --no-clobber ./*.html ../
